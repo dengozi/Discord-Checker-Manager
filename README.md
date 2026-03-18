@@ -14,3 +14,6 @@ Bu uygulama, birden fazla Discord hesabını (token) tek bir merkezden kontrol e
 1. Depoyu bilgisayarınıza indirin:
    ```bash
    git clone [https://github.com/kullaniciadin/Discord-Account-Manager.git](https://github.com/kullaniciadin/Discord-Account-Manager.git)
+
+
+   pip install -r requirements.txt
